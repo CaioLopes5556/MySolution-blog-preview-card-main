@@ -33,8 +33,8 @@ Esta é minha solução para o desafio [Blog preview card challenge on Frontend 
 
 ### Links
 
-- Projeto URL: [Repositório GitHub](https://https://github.com/CaioLopes5556/MySolution-blog-preview-card-main)
-- Live Site: [Deploy do Projeto](https://https://caiolopes5556.github.io/MySolution-blog-preview-card-main/)
+- Projeto URL: [Repositório GitHub](https://github.com/CaioLopes5556/MySolution-blog-preview-card-main)
+- Live Site: [Deploy do Projeto](https://caiolopes5556.github.io/MySolution-blog-preview-card-main/)
 
 ## Sobre o projeto
 
